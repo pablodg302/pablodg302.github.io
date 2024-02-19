@@ -713,6 +713,12 @@ section {
   }
 }
 
+@media (max-width: 768px) {
+  .about .content{
+    padding-top: 0.5rem !important;
+  }
+}
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
@@ -820,6 +826,12 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .services .content{
+    padding-top: 0.5rem !important;
+  }
 }
 
 /*--------------------------------------------------------------
